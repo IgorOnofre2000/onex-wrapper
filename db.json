@@ -10,12 +10,6 @@
   "rs1":{
     "clientid":"54321",
     "data2":"MIDIAVOX"
-  },
-  
-  "api":{
-    "extension":{
-      "newtest":"5555"
-    }
   }
   
 }
